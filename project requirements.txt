@@ -1,0 +1,11 @@
+emergency-clinical-assist/
+├── app/
+│   ├── main.py             # Streamlit Entry Point
+│   └── utils.py            # Clinical Calculation Logic
+├── data/
+│   └── drugs.json          # Structured Drug Data
+├── requirements.txt        # Python Dependencies
+├── .github/
+│   └── workflows/
+│       └── ci.yml          # GitHub CI Workflow
+└── README.md
